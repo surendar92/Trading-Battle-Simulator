@@ -13,7 +13,7 @@ This project simulates a "battle" between various algorithmic trading strategies
 ##  Performance Results
 The graph below shows a sample run using **AAPL** data from **2015 to 2023**. 
 
-![Trading Battle Results](Figure_1.jpg)
+![Trading Battle Results](Figure_1.png)
 
 **Key Observations:**
 * **Momentum** was the dominant strategy for this period, successfully riding the long-term growth of Apple.
